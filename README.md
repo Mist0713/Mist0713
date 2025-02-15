@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+<font size=20 color="#00D7FB">입시해야합니다! 커밋할 시간이 없습니다!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</font>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mist0713&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mist0713&layout=compact&theme=tokyonight)
 #
