@@ -1,4 +1,7 @@
 ### Hi there 👋
+## Online Judges
+[![mist0713 - Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=mist0713)](https://solved.ac/profile/mist0713)  
+[![CodeForces Profile](http://cf.leed.at?id=mist0713)](https://codeforces.com/profile/mist0713)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mist0713&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mist0713&layout=compact&theme=tokyonight)
