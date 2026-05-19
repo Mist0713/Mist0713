@@ -3,15 +3,15 @@
 [![mist0713 - Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=mist0713)](https://solved.ac/profile/mist0713)  
 [![CodeForces Profile](http://cf.leed.at?id=mist0713)](https://codeforces.com/profile/mist0713)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mist0713&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mist0713&layout=compact&theme=tokyonight)
+
 #
 PS main newbie
 <!--
 **Mist0713/Mist0713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mist0713&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mist0713&layout=compact&theme=tokyonight)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
