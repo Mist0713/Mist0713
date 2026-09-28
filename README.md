@@ -11,10 +11,16 @@ Currently working toward **ICPC World Finals**.
 
 <p align="left">
   <a href="https://codeforces.com/profile/mist0713">
-    <img src="https://cp-badges.vercel.app/codeforces/mist0713" height="30" />
+    <img
+      src="https://codeforces-readme-stats.vercel.app/api/badge?username=mist0713"
+      height="32"
+    />
   </a>
   <a href="https://atcoder.jp/users/Laugh_OF_Loud">
-    <img src="https://cp-badges.vercel.app/atcoder/Laugh_OF_Loud" height="30" />
+    <img
+      src="https://atrating.baoshuo.dev/rating?username=Laugh_OF_Loud"
+      height="32"
+    />
   </a>
 </p>
 
